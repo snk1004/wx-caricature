@@ -1,0 +1,75 @@
+.cont{
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.top{
+  width: 100%;
+  display: flex;
+}
+.top image{
+  width: 100%;
+}
+.icons{
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  padding: 0 15px;
+  box-sizing: border-box;
+  margin-top: 15px;
+}
+.icons dl{
+  width: 20%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: 14px;
+}
+.icons dl image{
+  width: 60px;
+  height: 60px;
+}
+.list{
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 15px;
+}
+.list dl{
+  width: 70%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: 14px;
+  margin: 0 10px;
+}
+.list dl dd{
+  text-align: center;
+  width: 100%;
+}
+.list dl dd h1,p{
+  display: flex;
+}
+.list dl dd h1{
+  font-size: 18px;
+  margin: 5px 0;
+}
+.first image{
+  width: 260px;
+  height: 150px;
+}
+.sec image{
+  width: 120px;
+  height: 150px;
+}
+.list-tit{
+  display: flex;
+  justify-content: space-between;
+  padding: 0 15px;
+  box-sizing: border-box;
+  width: 100%;
+  height: 50px;
+  line-height: 50px;
+  margin-top: 15px;
+}

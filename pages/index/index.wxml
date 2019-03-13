@@ -1,0 +1,64 @@
+<!--index.wxml-->
+<view class="cont">
+    <div class='top'>
+      <image src='../../images/top_02.png'/>
+    </div>
+    <div class='icons'>
+      <dl>
+        <dt>
+          <image src='../../images/icon_03.png'/>        
+        </dt>
+        <dd>
+          放送表
+        </dd>
+      </dl>
+      <dl>
+        <dt>
+          <image src='../../images/icon_05.png'/>        
+        </dt>
+        <dd>
+          放送表
+        </dd>
+      </dl>
+      <dl>
+        <dt>
+          <image src='../../images/icon_07.png'/>        
+        </dt>
+        <dd>
+          放送表
+        </dd>
+      </dl>
+      <dl>
+        <dt>
+          <image src='../../images/icon_09.png'/>        
+        </dt>
+        <dd>
+          放送表
+        </dd>
+      </dl>
+    </div>
+    <div class='list-tit'>
+        <h1>精品佳作</h1>
+        <h3 bindtap='toMore'>查看更多</h3>
+    </div>
+    <div class='list'>
+      <dl class='first'>
+        <dt>
+          <image src='../../images/img-lis_03.png'/>        
+        </dt>
+        <dd>
+          <h1>狂想情人</h1>
+          <p>记住了，渣男必须死</p>
+        </dd>
+      </dl>
+      <dl class='sec'>
+        <dt>
+          <image src='../../images/img-lis_05.png'/>        
+        </dt>
+        <dd>
+          <h1>狂想情人</h1>
+          <p>记住了，渣</p>
+        </dd>
+      </dl>
+    </div>
+</view>
